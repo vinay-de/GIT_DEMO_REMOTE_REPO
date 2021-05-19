@@ -5,3 +5,4 @@ Development 2
 changes in local
 new changes in local
 new changes in remote
+chnages done o check fetch
